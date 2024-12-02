@@ -7,12 +7,16 @@ This unoffical repository is collecting software issues with the polestar 4 and 
 These are a copy of the official release statements from polestart.
 https://www.polestar.com/us/manual/polestar-4/2025/software-updates/
 
-### 4.1.11
+### 4.1.11 
+
+Released at end of november 2024
 
 - Calibration of regenerative braking.
 - General stability improvements.
 
 ### 4.1.10
+
+Release at the beginning of november 2024
 
 - Improvements to the infotainment system.
 - Stability improvement for navigation.
@@ -39,3 +43,11 @@ There are no release statments
 ### 4.1.6
 
 There are no release statments
+
+### 4.1.5
+
+- General improvements to the infotainment system.
+- Improvements to cabin climate system.
+- Voice assistant optimization.
+- General improvements to Pilot Assist performance.
+- Optimization of wireless phone charging.

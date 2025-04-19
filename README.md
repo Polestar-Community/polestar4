@@ -1,8 +1,35 @@
-# Polestar 4 Issues
+# Polestar 4 Community Issues Tracker
 
-This unoffical repository is collecting software issues with the polestar 4 and keeps track when and how each issus was solved.
+Welcome to the **Polestar 4 Community Issues Tracker** — a centralized place to collect, track bugs, quirks, and feedback related to the Polestar 4.
 
-## Releases
+Whether you're an owner, enthusiast, or just curious about the car, this repo aims to bring transparency and community support to the ownership experience.
+
+## 🗂 Browse Issues
+
+Check the [Issues tab](https://github.com/Polestar-Community/polestar4/issues) to view known issues. Use labels to filter by category.
+
+## 📝 Submit a New Issue
+
+If you've experienced something not already listed:
+1. Click **"New Issue"**
+2. Use the provided **Issue Template**
+3. Include relevant details: when it happened, how to reproduce it, version number (if available), photos/screenshots, etc.
+
+> Please check for duplicates before posting.
+
+## 🤝 Contributing
+
+This is a community effort! If you’ve experienced something, chime in.
+- Confirm existing issues by commenting
+- Add details to help others troubleshoot
+- Suggest fixes or workarounds
+- Help refine labels and categorization
+
+## 📍 Disclaimer
+
+This project is unaffiliated with Polestar or Volvo. It’s maintained by owners and enthusiasts to help each other out. The goal is transparency, not negativity — please keep it constructive.
+
+## 📦 Releases & Changelog
 
 These are a copy of the official release statements from polestart.
 https://www.polestar.com/us/manual/polestar-4/2025/software-updates/

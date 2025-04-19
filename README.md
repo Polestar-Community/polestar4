@@ -7,6 +7,28 @@ This unoffical repository is collecting software issues with the polestar 4 and 
 These are a copy of the official release statements from polestart.
 https://www.polestar.com/us/manual/polestar-4/2025/software-updates/
 
+### 4.2.2
+
+- Improved climate system performance, reducing the likelihood of condensation on the windows and improving airflow
+- Battery pre-conditioning improvements: minimum estimated state of charge at arrival now reduced from 22% to 7%. Battery preconditioning requires a destination to a DC charger to be set.
+- Improvements when toggling between Adaptive Cruise Control and Pilot Assist functions. Your set speed now remains when switching between ACC and PA instead of using the current speed limit as a target speed.
+- Introduction of an instrument panel message alerting you when the driver alert system is temporarily unavailable. This may occur if, for example, you cover parts of your face during driving, and the system cannot detect you.
+- Climate system improved to avoid issue with automatic steering wheel heating not activating at low temperatures.
+- General stability improvements.
+
+### 4.2.1
+
+- Enabling Digital Key functionality for Apple devices; requires future activation email (Only for European vehicles)
+- Improved charging behavior: the vehicle will release the charging cable for 90 seconds when the vehicle is unlocked and the charging limit has not yet been reached (AC charging only)
+- Introduction of battery preconditioning, applicable when destination to a DC charger is set and the estimated state-of-charge at arrival is above 22%
+- Enabling switch from Pilot Assist to Adaptive Cruise Control by double-clicking on the steering wheel control
+- Improved behavior for Lane Keeping Aid, Pilot Assist and Adaptive Cruise Control 
+- Adaptive Cruise Control now available with trailer mode
+- One Pedal Drive available in three levels (standard, low, off) via steering wheel controls
+- One Pedal Drive setting now saved to corresponding driver profiles
+- Enables future Dashcam in-vehicle app (will require micro-SD card).
+- Sound notification when switching off Pilot Assist or Adaptive Cruise Control removed
+
 ### 4.1.11 
 
 Released at end of november 2024
